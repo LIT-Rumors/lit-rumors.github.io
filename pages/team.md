@@ -8,8 +8,6 @@ permalink: "/team/"
 #   image_fullwidth: "header_roadmap_2.jpg"
 ---
 
-<div class="row">
-
 
     ### Stuff...
 
@@ -26,7 +24,3 @@ permalink: "/team/"
 
     
     sadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasdsadasdasd
-
-
-
-</div><!-- /.row -->
