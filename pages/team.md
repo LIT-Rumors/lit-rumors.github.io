@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
+title: "Team"
+subheadline: "RuMorS Team"
 teaser: "The documentation is a work in progress..."
 permalink: "/team/"
 #header:
