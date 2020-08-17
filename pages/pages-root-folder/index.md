@@ -7,6 +7,7 @@
 layout: page-fullwidth
 header:
   image_fullwidth: header.jpg
+  title: Runtime Monitoring for Software-Intenstive Systems
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
