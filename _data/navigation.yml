@@ -6,19 +6,19 @@
   url: "/getting-started/"
   side: left
 
-  - title: Tean
+- title: Tean
   url: "/team/"
   side: left
 
 
 
-  - title: Publicataions
+- title: Publicataions
   url: "/publications/"
   side: left
 
 
 
-  - title: Contact
+- title: Contact
   url: "/contact/"
   side: left
 
