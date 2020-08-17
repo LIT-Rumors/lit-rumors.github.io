@@ -4,7 +4,10 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-
+layout: page-fullwidth
+header:
+  image_fullwidth: header.jpg
+  title: Runtime Monitoring for Software-Intenstive Systems
 
 #
 # Use the call for action to show a button on the frontpage
