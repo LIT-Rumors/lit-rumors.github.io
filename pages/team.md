@@ -9,7 +9,7 @@ permalink: "/team/"
 ---
 
 <div class="row">
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 
     ### Stuff...
 
@@ -29,5 +29,4 @@ permalink: "/team/"
 
 
 
-</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
