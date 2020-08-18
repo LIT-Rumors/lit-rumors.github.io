@@ -5,10 +5,10 @@ permalink: "/contact/"
 ---
 
 
-### Johannes Kepler Universität Linz
+#### Johannes Kepler Universität Linz
 
-### Institut für Wirtschaftsinformatik
-### Software Engineering
+#### Institut für Wirtschaftsinformatik
+#### Software Engineering
 
 Altenberger Straße 69&bnsp;
 Science Park 3, Zwischengeschoss ZA&bnsp;
