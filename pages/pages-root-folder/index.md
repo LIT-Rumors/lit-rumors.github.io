@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: header2.jpg
+  image_fullwidth: header3.jpg
 
 #
 # Use the call for action to show a button on the frontpage
