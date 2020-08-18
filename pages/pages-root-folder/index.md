@@ -35,8 +35,8 @@ This project is funded by the Linz Institute of Technology LIT   (2020 - 2023)
 
 
 <div class="row">
-    <div class="large-6 columns t30">
-      <img src="{{ site.urlimg }}logo_lit.jpg" height="60px" alt="">
+    <div class="large-6 columns t30" align="center">
+      <img src="{{ site.urlimg }}logo_lit.jpg" height="600" alt="">
     </div><!-- /.medium-4.columns -->
     <div class="large-6 columns t30">
       <img src="{{ site.urlimg }}logo_se.png" alt="">
