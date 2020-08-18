@@ -35,15 +35,10 @@ This project is funded by the Linz Institute of Technology LIT   (2020 - 2023)
 
 
 <div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
+    <div class="large-6 columns t30">
       <img src="{{ site.urlimg }}logo_lit.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
+    <div class="large-6 columns t30">
       <img src="{{ site.urlimg }}logo_se.png" alt="">
     </div><!-- /.medium-4.columns -->
 
