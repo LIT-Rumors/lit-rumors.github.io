@@ -5,7 +5,7 @@ permalink: "/contact/"
 ---
 
 
-<Johannes Kepler Universität Linz<br>
+<h4>Johannes Kepler Universität Linz</h4><br>
 
 Institut für Wirtschaftsinformatik<br>
 Software Engineering<br>
