@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Publications"
 #meta_title: "Contact and use our contact form"
 #subheadline: "Wufoo-powered contact forms"
