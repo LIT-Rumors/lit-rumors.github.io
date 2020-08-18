@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: header.jpg
+  image_fullwidth: header2.jpg
   title: RuMorS
   subtitle: Runtime Monitoring for Software-Intenstive Systems
 
