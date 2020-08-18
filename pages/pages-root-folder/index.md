@@ -28,3 +28,24 @@ homepage: true
 
 
 RuMorS, (RUntime MOnitoRing for Software-intensive systems) aims to aid engineers in (i) discovering, analyzing, and selecting relevant information about the system’s behavior (such as functional requirements or safety-related behavior), (ii) creating monitors in order to observe and ensure the correct behavior of the system and interplay among hardware, software, and human actors, and finally, (iii) means for describing expected human behavior and monitoring this behavior at runtime to ensure that the system adheres to its (often safety-critical) prescriptions.
+
+
+
+This project is funded by the Linz Institute of Technology LIT   (2020 - 2023)
+
+
+<div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}logo_lit.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}logo_se.png" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
