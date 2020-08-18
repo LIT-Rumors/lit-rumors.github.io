@@ -5,16 +5,16 @@ permalink: "/contact/"
 ---
 
 
-Johannes Kepler Universität Linz
+### Johannes Kepler Universität Linz
 
-Institut für Wirtschaftsinformatik
-Software Engineering
+### Institut für Wirtschaftsinformatik
+### Software Engineering
 
-Altenberger Straße 69
-Science Park 3, Zwischengeschoss ZA
-A-4040 Linz / Austria / Europe
+Altenberger Straße 69&bnsp;
+Science Park 3, Zwischengeschoss ZA&bnsp;
+A-4040 Linz / Austria / Europe&bnsp;
 
-Phone: +43 732 2468-4241
+Phone: +43 732 2468-4241&bnsp;
 Email: office@se.jku.at
 
 
