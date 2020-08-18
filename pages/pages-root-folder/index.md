@@ -17,7 +17,7 @@ header:
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
-#
+#dann
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -36,7 +36,7 @@ This project is funded by the Linz Institute of Technology LIT   (2020 - 2023)
 
 <div class="row">
     <div class="large-6 columns" align="center">
-      <img src="{{ site.urlimg }}logo_lit.jpg" height="600" alt="">
+      <img src="{{ site.urlimg }}logo_lit.jpg" height="60" alt="">
     </div><!-- /.medium-4.columns -->
     <div class="large-6 columns">
       <img src="{{ site.urlimg }}logo_se.png" alt="">
