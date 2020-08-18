@@ -7,8 +7,6 @@
 layout: page-fullwidth
 header:
   image_fullwidth: header2.jpg
-  title: RuMorS
-  subtitle: Runtime Monitoring for Software-Intenstive Systems
 
 #
 # Use the call for action to show a button on the frontpage
