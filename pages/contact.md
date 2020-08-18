@@ -20,11 +20,9 @@ Email: office@se.jku.at
 
 
 <p>&nbsp;
-&nbsp;
-&nbsp;
+
 &nbsp;</p>
 <p>
-	&nbsp;
 	&nbsp;
 	&nbsp;
 </p>
