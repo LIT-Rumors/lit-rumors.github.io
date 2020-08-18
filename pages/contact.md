@@ -10,11 +10,11 @@ permalink: "/contact/"
 #### Institut für Wirtschaftsinformatik
 #### Software Engineering
 
-Altenberger Straße 69&bnsp;
-Science Park 3, Zwischengeschoss ZA&bnsp;
-A-4040 Linz / Austria / Europe&bnsp;
+Altenberger Straße 69 &nbsp;
+Science Park 3, Zwischengeschoss ZA &nbsp;
+A-4040 Linz / Austria / Europe &nbsp;
 
-Phone: +43 732 2468-4241&bnsp;
+Phone: +43 732 2468-4241 &nbsp;
 Email: office@se.jku.at
 
 
