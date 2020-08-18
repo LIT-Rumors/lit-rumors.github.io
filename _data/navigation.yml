@@ -6,6 +6,10 @@
   url: "/team/"
   side: left
 
+- title: Research Areas
+  url: "/research/"
+  side: left
+
 
 
 - title: Publicataions
