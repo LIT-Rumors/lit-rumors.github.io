@@ -28,9 +28,9 @@ homepage: true
 
 
 RuMorS, (RUntime MOnitoRing for Software-intensive systems) aims to aid engineers in 
-1. discovering, analyzing, and selecting relevant information about the system’s behavior (such as functional requirements or safety-related behavior), 
+1. discovering, analyzing, and selecting relevant information about the system’s behavior<br>(such as functional requirements or safety-related behavior), 
 2. creating monitors in order to observe and ensure the correct behavior of the system and interplay among hardware, software, and human actors, and finally,
-3.  means for describing expected human behavior and monitoring this behavior at runtime to ensure that the system adheres to its (often safety-critical) prescriptions.
+3. describing expected human behavior and monitoring this behavior at runtime to ensure that the system adheres to its (often safety-critical) prescriptions.
 
 
 
