@@ -37,10 +37,10 @@ This project is funded by the Linz Institute of Technology LIT   (2020 - 2023)
 <div class="row">
     <div class="large-6 columns" align="center">
       <a href="https://www.jku.at/linz-institute-of-technology/" target="new">
-      <img src="{{ site.urlimg }}logo_lit.jpg" height="60" alt=""></a>
+      <img src="{{ site.urlimg }}logo_lit.jpg" height="80" alt=""></a>
     </div><!-- /.medium-4.columns -->
     <div class="large-6 columns">
-      <a href="http://se.jku.at" target="new"><img src="{{ site.urlimg }}logo_se.png" alt=""></a>
+      <a href="http://www.se.jku.at" target="new"><img src="{{ site.urlimg }}logo_se.png" height="80" alt=""></a>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
