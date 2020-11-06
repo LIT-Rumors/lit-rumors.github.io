@@ -8,7 +8,7 @@ permalink: "/team/"
 
 
 ### Michael Vierhauser
-<br>
+<p style="line-height:85%"/>
 
 
 <div class="row">
@@ -18,27 +18,22 @@ permalink: "/team/"
     <div class="large-10 columns">
 <div align="justify">     
 Michael Vierhauser obtained his PhD in 2017 at the Johannes Kepler University Linz at the Christian Doppler Laboratory on Monitoring and Evolution of Very-Large-Scale Software Systems (http://mevss.jku.at)
-<br>
+<p style="line-height:85%"/>
 From 2018 to 2020 he spent 2 years at the Software and Requirements Engineering Center (SAREC) at the University of Notre Dame by an FWF Erwin Schroedinger Fellowship
-<br>
+<p style="line-height:85%"/>
 Since October 2020 he has been working at the Department for Business Informatics at the Johannes Kepler University Linz.
-<br>
+<p style="line-height:85%"/>
 Current Research Areas: Requirements-based Monitoring and Diagnosis , Monitoring and Evolution of Software-Intensive Systems Product Line Engineering, CPS / Safety-Critical Systems
 </div>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
 
-
+<br>
 
 
 ### Hussein Marah
-
-
-
- <br>
-
-
+<p style="line-height:85%"/>
 <div class="row">
     <div class="large-2 columns" align="center">
       <img src="{{ site.urlimg }}hmarah.jpg" height="80" width="200" alt="">
