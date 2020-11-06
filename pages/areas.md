@@ -8,6 +8,7 @@ permalink: "/areas/"
 
 
 ### Runtime Monitoring
+<p style="line-height:85%"/>
 
 CPS differ from traditional software systems as they include both software and hardware components (such as sensors and actuators) facilitating the collaboration between these two worlds. Furthermore, feedback loops exist where physical processes and computations affect each other, and where humans are involved in the decision-making process.
 As these systems grow in size and interact with other systems, they become more complex, interrelated, and heterogeneous, exhibiting Systems of Systems characteristics.
