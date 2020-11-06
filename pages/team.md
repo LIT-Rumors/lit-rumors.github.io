@@ -12,10 +12,10 @@ permalink: "/team/"
 
 
 <div class="row">
-    <div class="large-2 columns" align="center">
+    <div class="small-2 columns">
      <img src="https://se.jku.at/wp-content/uploads/2019/09/UnivAss-michael.jpg" height="80" alt="">
     </div><!-- /.medium-4.columns -->
-    <div class="large-6 columns">
+    <div class="large-10 columns">
 <div align="justify">     
 Michael Vierhauser obtained his PhD in 2017 at the Johannes Kepler University Linz at the Christian Doppler Laboratory on Monitoring and Evolution of Very-Large-Scale Software Systems (http://mevss.jku.at)
 <br>
