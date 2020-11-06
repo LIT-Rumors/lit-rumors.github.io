@@ -19,13 +19,13 @@ permalink: "/team/"
 <div align="justify">     
     <p>
 Michael Vierhauser obtained his PhD in 2017 at the Johannes Kepler University Linz at the Christian Doppler Laboratory on Monitoring and Evolution of Very-Large-Scale Software Systems (http://mevss.jku.at)</p>
-<p style="line-height:95%"/>
+<p style="line-height:75%"/>
 <p>
 From 2018 to 2020 he spent 2 years at the Software and Requirements Engineering Center (SAREC) at the University of Notre Dame by an FWF Erwin Schroedinger Fellowship.</p>
-<p style="line-height:95%"/>
+<p style="line-height:75%"/>
 <p>
 Since October 2020 he has been working at the Department for Business Informatics at the Johannes Kepler University Linz.</p>
-<p style="line-height:95%"/>
+<p style="line-height:75%"/>
 <p>
 Current Research Areas: Requirements-based Monitoring and Diagnosis , Monitoring and Evolution of Software-Intensive Systems Product Line Engineering, CPS / Safety-Critical Systems></p>
 </div>
