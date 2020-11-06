@@ -34,7 +34,6 @@ Since October 2020 he has been working at the Department for Business Informatic
 <br>
 Current Research Areas: Requirements-based Monitoring and Diagnosis , Monitoring and Evolution of Software-Intensive Systems Product Line Engineering, CPS / Safety-Critical Systems
 </div>
-
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
