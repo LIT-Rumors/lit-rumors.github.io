@@ -25,5 +25,5 @@ Such deviations can not only affect functional or performance-related requiremen
 ### Model-Driven Engineering
 <p style="line-height:85%"/>
 
-Model-Driven Engineering (MDE) is an area in Software engineering that aims to automate the development of software and systems by considering the models as the core of the development process.
+Model-Driven Engineering (MDE) is an area of Software engineering that aims to automate the development of software and systems by considering the models as the core of the development process.
 MDE consists of different processes and stages from designing the metamodel and instance models to code generation, which can make software development simpler and more customizable by tackling the changes quickly and easily.
