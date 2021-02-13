@@ -15,7 +15,7 @@ permalink: "/publications/"
 
 <div class="row">
     <div class="small-2 columns">
-     <img src="{{ site.urlimg }}/publications/icse2021_nier.png" height="80" alt="">
+     <img src="{{ site.urlimg }}/publications/icse2021_nier.png" height="150" alt="">
     </div><!-- /.medium-4.columns -->
     <div class="large-10 columns">
 <div align="justify">     
