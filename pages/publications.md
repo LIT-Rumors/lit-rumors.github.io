@@ -17,7 +17,7 @@ permalink: "/publications/"
     <div class="large-2 columns">
      <img src="{{ site.urlimg }}/publications/icse2021_nier.png" height="150" alt="">
     </div><!-- /.medium-4.columns -->
-    <div class="large-10 columns">
+    <div class="large-6 columns">
 <div align="justify">     
 <p style="margin-top:1px">
 M. Vierhauser, H. Marah, A. Garmendia, J. Cleland-Huang, M. Wimmer
