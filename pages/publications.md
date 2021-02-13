@@ -9,7 +9,7 @@ permalink: "/publications/"
 
 
 #### Towards a Model-Integrated Runtime Monitoring Infrastructure for Cyber-Physical Systems
-
+ 
 <p style="line-height:85%"/>
 
 
