@@ -21,11 +21,12 @@ permalink: "/publications/"
 <div align="justify">     
 <p style="margin-top:1px">
 M. Vierhauser, H. Marah, A. Garmendia, J. Cleland-Huang, M. Wimmer
-
-
 </p>
-<p style="margin-top:1px">
+<p style="line-height:85%">
 Accepted for publication @ 43rd International Conference on Software Engineering, ICSE-NIER 2021 
+</p>
+<p style="line-height:85%">
+<a href="https://epub.jku.at/obvulioa/download/pdf/5805842">[Prerint]</a>
 </p>
 
 </div>
