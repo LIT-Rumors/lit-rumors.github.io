@@ -44,7 +44,7 @@ Current Research Areas: Requirements-based Monitoring and Diagnosis , Monitoring
     <div class="large-10 columns">
 <div align="justify">     
 <p style="margin-top:1px">
-Hussein Marah graduated recently in 2020 and obtained his master's degree in information technologies from the <a href="https://ube.ege.edu.tr/eng-/Homepage.html" target="_new">International Computer Graduate School</a> at Ege University, Turkey. During his studies, he was a member of the <a href="http://akademik.ube.ege.edu.tr/serlab/index.html" target="_new">Software Engineering Research Laboratory (Ege-SERLab)</a>. The general area of his studies is software engineering, especially focusing on the model-driven engineering and cyber physical systems.
+Hussein Marah graduated recently in 2020 and obtained his MSc in information technologies from the <a href="https://ube.ege.edu.tr/eng-/Homepage.html" target="_new">International Computer Graduate School</a> at Ege University, Turkey. During his studies, he was a member of the <a href="http://akademik.ube.ege.edu.tr/serlab/index.html" target="_new">Software Engineering Research Laboratory (Ege-SERLab)</a>. The general area of his studies is software engineering, especially focusing on the model-driven engineering and cyber physical systems.
 </p>
 <p style="margin-top:1px">
 Currently, he has joined and started working at the <a href ="http://se.jku.at" target="_new">Department for Business Informatics</a> at the Johannes Kepler University Linz.
